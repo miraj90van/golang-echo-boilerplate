@@ -21,14 +21,14 @@ import (
 	_ "myapp/cmd/docs"
 )
 
-//	@title			Echo Boilerplate Service
+//	@title			Micro Go Template Service
 //	@version		0.0.1
 //	@description	Please welcome a holy high-speed and high-performance Echo service!
 
 //	@contact.url	https://tentanganak.com
 
-//	@host		localhost:8888
-//	@basePath	/micro-go-template
+// @host		localhost:8888
+// @basePath	/micro-go-template
 func main() {
 	e := echo.New()
 

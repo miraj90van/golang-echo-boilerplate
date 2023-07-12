@@ -131,7 +131,7 @@ host: localhost:8888
 info:
   contact:
     url: https://tentanganak.com
-  description: Please welcome a holy high-speed and high-performance Echo service!
+  description: Please welcome a holy high-speed and high-performance service!
   title: Echo Boilerplate Service
   version: 0.0.1
 paths:
