@@ -1,4 +1,4 @@
-basePath: /echo-boilerplate
+basePath: /micro-go-template
 definitions:
   dto.SystemParameterCreateRequest:
     properties:
@@ -130,7 +130,7 @@ definitions:
 host: localhost:8888
 info:
   contact:
-    url: https://github.com/adityasatrio/golang-echo-boilerplate
+    url: https://tentanganak.com
   description: Please welcome a holy high-speed and high-performance Echo service!
   title: Echo Boilerplate Service
   version: 0.0.1

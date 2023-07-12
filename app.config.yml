@@ -1,5 +1,5 @@
 application:
-  name: echo-boilerplate
+  name: micro-go-template
   version: 0.0.1
   port: 8888
   mode: dev #dev|prod

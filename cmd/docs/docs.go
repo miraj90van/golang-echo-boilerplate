@@ -11,7 +11,7 @@ const docTemplate = `{
         "description": "{{escape .Description}}",
         "title": "{{.Title}}",
         "contact": {
-            "url": "https://github.com/adityasatrio/golang-echo-boilerplate"
+            "url": "https://tentanganak.com"
         },
         "version": "{{.Version}}"
     },
@@ -791,7 +791,7 @@ const docTemplate = `{
 var SwaggerInfo = &swag.Spec{
 	Version:          "0.0.1",
 	Host:             "localhost:8888",
-	BasePath:         "/echo-boilerplate",
+	BasePath:         "/micro-go-template",
 	Schemes:          []string{},
 	Title:            "Echo Boilerplate Service",
 	Description:      "Please welcome a holy high-speed and high-performance Echo service!",

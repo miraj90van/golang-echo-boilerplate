@@ -4,12 +4,12 @@
         "description": "Please welcome a holy high-speed and high-performance Echo service!",
         "title": "Echo Boilerplate Service",
         "contact": {
-            "url": "https://github.com/adityasatrio/golang-echo-boilerplate"
+            "url": "https://tentanganak.com"
         },
         "version": "0.0.1"
     },
     "host": "localhost:8888",
-    "basePath": "/echo-boilerplate",
+    "basePath": "/micro-go-template",
     "paths": {
         "/system-parameter": {
             "get": {

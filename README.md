@@ -1,6 +1,4 @@
-[![Go](https://github.com/adityasatrio/golang-echo-boilerplate/actions/workflows/go.yml/badge.svg)](https://github.com/adityasatrio/golang-echo-boilerplate/actions/workflows/go.yml)
-
-# Golang CRUD boilerplate
+# Micro Go Template
   
 - Golang 1.19
   - https://go.dev/doc/effective_go

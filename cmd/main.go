@@ -25,10 +25,10 @@ import (
 //	@version		0.0.1
 //	@description	Please welcome a holy high-speed and high-performance Echo service!
 
-//	@contact.url	https://github.com/adityasatrio/golang-echo-boilerplate
+//	@contact.url	https://tentanganak.com
 
 //	@host		localhost:8888
-//	@basePath	/echo-boilerplate
+//	@basePath	/micro-go-template
 func main() {
 	e := echo.New()
 
